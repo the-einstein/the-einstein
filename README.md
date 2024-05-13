@@ -134,8 +134,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=the-einstein&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  ![Codewars](https://github.r2v.ch/codewars?user=the-einstein)
 </div>
 
+###
+![Codewars](https://github.r2v.ch/codewars?user=the-einstein)
 
 ###
